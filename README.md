@@ -34,11 +34,6 @@ To run this project locally:
     ```sh
     cd Movie_recommender
     ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the application:
